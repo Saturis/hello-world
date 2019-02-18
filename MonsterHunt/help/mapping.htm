@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE>Monster Hunt Inrtoduction</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE type="text/css">
+<!--
+a:link {  color: #FF9900; text-decoration: none}
+a:active {  color: #FFCC00; text-decoration: none}
+a:hover {  color: #FFCC66; text-decoration: blink; font-style: italic}
+a:visited {  text-decoration: none}
+.bg {  background-attachment: fixed; background-image: url(bg.JPG); background-repeat: no-repeat; background-position: right center}
+-->
+</STYLE></HEAD>
+
+<BODY bgcolor="#000000" text="#CCFF00" link="#FF9900" vlink="#FF9900" class="bg">
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" vspace="0" hspace="0" bgcolor="#CC7A00">
+  <TR>
+    <TD>
+      <DIV align="right"><FONT face="Verdana, Arial"><B>Mapping for Monster Hunt</B></FONT></DIV>
+    </TD>
+  </TR>
+</TABLE>
+<P><FONT face="Verdana, Arial">If you need any more info, stop by the <A href="http://www.unreal.co.za/shrimp/forum/">ShrimpWorks forums</A>, there you'll find the Monster Hunt forum where you can ask questions.</FONT></P>
+<HR width="75%" align="center">
+<P><FONT face="Verdana, Arial"><B><I>Monster Hunt</I></B></FONT></P>
+<P><FONT face="Verdana, Arial"> - Before you start on a map, open the MonsterHunt.u package in the class-browser so you have access to all the Monster Hunt-specific stuff.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Maps should be more of a single player style, 
+  but make sure there are enough pickups for all the players and that there's 
+  enough space for a group of players to move around in.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Boss monsters should be in large spacious areas, 
+  the players must be able to concentrate on defeating the monsters and not have 
+  to worry about the surrounding architecture.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Make an escape route for the players to run 
+  through and place a MonsterEnd trigger (found in the classe-browser: Triggers 
+  -> Trigger -> MonsterEnd) where the players will run to end the level.</FONT></P>
+<P><FONT face="Verdana, Arial"> - If you want to add bot support to your map (very highly recommended), you can use the MonsterWaypoint actor (found in the classe-browser: Keypoint 
+  -> MonsterWaypoint). Just put the MonsterWaypoint actors wherever you want a bot waypoint to be, like near a button or a lever, or just along the path through the level. Set it's Position property to tell the bots in which order the waypoints must be visited. Set the first one at 1, the next at 2, then 3, and so on. You can also enter the Event tag of a particular actor so when the bot gets to the waypoint, something can be triggered to happen.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Be sure to add lots of PlayerStarts at the beginning 
+  of the level to make sure the players don't telefrag each other when the round 
+  starts - about 12-18 will be enough for a normal size map.</FONT></P>
+<P><FONT face="Verdana, Arial"> - You can implement simple puzzles for the players 
+  to solve along the way, but don't use too many as players will probably get 
+  frustrated.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Feel free to use as many special effects as 
+  you like, in this style of game, the players will really take note an think 
+  "How'd they do that???" :-) </FONT></P>
+<P><FONT face="Verdana, Arial">- Remember that there is no Translocator, so don't 
+  make any situations where it's needed to progress.</FONT></P>
+<P><FONT face="Verdana, Arial"> - The difficulty of the map is important, start 
+  with relatively weak monsters and as players progress through the level, use 
+  stronger and stronger enemies.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Make sure your Boss monster is pretty strong, 
+  players will be disappointed it only takes a few shots to kill it.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Don't put any monsters near to where the players 
+  will start, they'll all be slaughtered as soon as they spawn.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Environmental hazzards (slime, lava, huge drops, 
+  etc.) are great, but make sure the boss monster(s) can't fall in, or it'll spoil 
+  the fun of defeating them.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Don't give the players the best guns at the 
+  beginning, or they'll mow through the monsters too easily.</FONT></P>
+<P><FONT face="Verdana, Arial">- Use the MonsterEvent (under Triggers &gt; SpecialEvent) 
+  to display messages for the players, everything has already been pre-configured, 
+  just type the message and connect it to a trigger.</FONT></P>
+<P><FONT face="Verdana, Arial">- Set the boss monster's bIsBoss to True so the player can get extra points for killing him.</FONT></P>
+<HR width="75%" align="center">
+<P><FONT face="Verdana, Arial"><B><I>Monster Arena</I></B></FONT></P>
+<P><FONT face="Verdana, Arial">- The same rules that apply to Monster Hunt maps 
+  apply to Monster Arena maps as well, but there are a few more things to keep 
+  in mind:</FONT></P>
+<P><FONT face="Verdana, Arial">- Make sure you create a small protected area somewhere 
+  in the map that the players can safely spawn in, you can even seal it off by 
+  using a door.</FONT></P>
+<P><FONT face="Verdana, Arial"> - You should provide the players with some guns 
+  in the protected area but don't give them too many and make sure the weapons 
+  suit the arena and the monster to be killed.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Place as much health and ammo around the arena 
+  as you like.</FONT></P>
+<P><FONT face="Verdana, Arial"> - Give the players lots of place to move in, and 
+  make sure the boss can't get stuck anywhere. </FONT></P>
+<P><FONT face="Verdana, Arial">- Place a MonsterArenaEnd trigger in the map (found 
+  in the classes browser: Triggers -> Trigger -> MonsterEnd -> MonsterArenaEnd) 
+  and set an Event for the boss and set the Tag of the MonsterArenaEnd to corrospond 
+  with the boss' Event. (<I>IMPORTANT! - Make sure you add the trigger in the 
+  centre of the map using the Top View</I>)</FONT></P>
+</BODY>
+</HTML>

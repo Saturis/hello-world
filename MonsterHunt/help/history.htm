@@ -1,0 +1,135 @@
+<HTML>
+<HEAD>
+<TITLE>Monster Hunt Inrtoduction</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE type="text/css">
+<!--
+a:link {  color: #FF9900; text-decoration: none}
+a:active {  color: #FFCC00; text-decoration: none}
+a:hover {  color: #FFCC66; text-decoration: blink; font-style: italic}
+a:visited {  text-decoration: none}
+.bg {  background-attachment: fixed; background-image: url(bg.JPG); background-repeat: no-repeat; background-position: right center}
+-->
+</STYLE></HEAD>
+
+<BODY bgcolor="#000000" text="#CCFF00" link="#FF9900" vlink="#FF9900" class="bg">
+<TABLE border="0" width="100%" cellspacing="0" cellpadding="0" vspace="0" hspace="0" bgcolor="#CC7A00">
+  <TR>
+    <TD>
+      <DIV align="right"><FONT face="Verdana, Arial"><B>Release history</B></FONT></DIV>
+    </TD>
+  </TR>
+</TABLE>
+<P><FONT face="Verdana, Arial"><B><I>Release 6<BR>
+  --------------------</I></B></FONT></P>
+<P><FONT face="Verdana, Arial">- Bots can now follow waypoints (if supported by 
+  the map) and complete complex objectives and end the level by themselves.</FONT></P>
+<P><FONT face="Verdana, Arial">- Bots now fight monsters and monsters fight bots.</FONT></P>
+<P><FONT face="Verdana, Arial">- Monster difficulty is influenced by bot difficulty 
+  settings, eg. if you set the bot skill to Novice, monsters will be easy to beat, 
+  set the bot skill to Godlike and monsters are much harder to beat.</FONT></P>
+<P><FONT face="Verdana, Arial">- A life limit can be set, when players (and bots) 
+  run out of lives, they are sent into spectator mode. When all players and bots 
+  are dead, the game ends.</FONT></P>
+<P><FONT face="Verdana, Arial">- Tournament mode can no longer be set, it will 
+  always be off in multiplayer games and always on in single player.</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed &quot;You are the winner&quot; announcer 
+  message from playing when you actually lost (ran out of time or team has no 
+  lives left).</FONT></P>
+<P><FONT face="Verdana, Arial">- Team skins are now optional (set when starting 
+  a game), no need to use red all the time.</FONT></P>
+<P><FONT face="Verdana, Arial">- 5 Points are lost for being killed when there 
+  is no life limit, this should help prevent &quot;kamakazi&quot; style gameplay.</FONT></P>
+<P><FONT face="Verdana, Arial">- Revised all Hunt maps and fixed a lot of bugs in them.</FONT></P>
+<P><FONT face="Verdana, Arial">- Added new map, HM-NaliVillage][.</FONT></P>
+<P><FONT face="Verdana, Arial">- Lots of other minor bugs have been fixed up along 
+  the way.</FONT></P>
+<P>&nbsp;</P>
+<P><FONT face="Verdana, Arial"><B><I>Release 5<BR>
+  --------------------</I></B></FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed Unreal weapons not working in multiplayer, also added decals to their projectiles - Thanks to UsAaR for help.</FONT></P>
+<P><FONT face="Verdana, Arial">- Added a scoring system so you score points depending on which type of monster you kill. Scores are as follows: Titan, Queen and WarLord = 5 points. Giant GasBag and Giant Manta = 4 points. SkaarjWarrior, MercenaryElete and Brute = 3 points. Krall, Mercenary, SkaarjTrooper, Slith and GasBag = 2 points. Everything else = 1 point. You also loose 5 points for killing innocent creatures and yourself. 10 extra points are awarded for killing a boss.</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed bug where monsters would attack spectators before a round begins.</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed bug where where if no time limit was set, but you finished the level, it would say &quot;Time up, hunt failed!&quot;.</FONT></P>
+<P>&nbsp;</P>
+<P><FONT face="Verdana, Arial"><B><I>Release 4 (First public release)<BR>
+  --------------------</I></B></FONT></P>
+<P><FONT face="Verdana, Arial">- Added maps: MH-Trials, MA-RocketArena and MA-Crimson 
+  </FONT></P>
+<P><FONT face="Verdana, Arial">- Added death messages when a monster is killed</FONT></P>
+<P><FONT face="Verdana, Arial">- Added server browser for Monster Arena</FONT></P>
+<P><FONT face="Verdana, Arial">- Server browsers actually work now :-)</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed &quot;Hunt Successful!&quot; message even 
+  if time ran out, will now read &quot;Time up, hunt failed!&quot; when time runs 
+  out</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed problem where monsters wouldn't work on 
+  some people's systems for real this time</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed problems with Monster Arena map lists</FONT></P>
+<P><FONT face="Verdana, Arial">- Created 3 new monster classes: LavaTitan, LavaSlith 
+  and RockTentacle</FONT></P>
+<P><FONT face="Verdana, Arial">- Added the Monster Hunt credits to the Mod menu</FONT></P>
+<P><FONT face="Verdana, Arial">- Revised all maps and fixed lots of bugs</FONT></P>
+<P><FONT face="Verdana, Arial">- New background images for the Rules, Settings 
+  and Bots config screens when starting a game.</FONT></P>
+<P><FONT face="Verdana, Arial">- Created the MonsterEvent class, allows messages 
+  to be displayed. Can be used to inform players of progress or things that have 
+  happned.</FONT></P>
+<P><FONT face="Verdana, Arial">- Weapons and ammo respawn faster in Monster Arena 
+  </FONT></P>
+<P><FONT face="Verdana, Arial">- Monster Hunt now uses it's own .ini file &quot;MonsterHunt.ini&quot; 
+  for storing it's information</FONT></P>
+<P>&nbsp;</P>
+<P><FONT face="Verdana, Arial"><B><I>Release 3 (Internal)<BR>
+  --------------------</I></B></FONT></P>
+<P><FONT face="Verdana, Arial"> - Added new game type - Monster Arena!</FONT></P>
+<P><FONT face="Verdana, Arial">- Included three Monster Arena maps, MA-Winged, 
+  MA-Queens and MA-Revenge.</FONT></P>
+<P><FONT face="Verdana, Arial">- Included new Monster Hunt map, MH-Canyon.</FONT></P>
+<P><FONT face="Verdana, Arial">- Created icons for MonsterEnd triggers to make 
+  it less confusing when making MH and MA maps.</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed &quot;*Player* is now on&quot; message 
+  that was displayed when a player joined a game, now reads &quot;*Player* has 
+  joined the hunt!&quot;</FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed some death messages eg. &quot;Shrimp was 
+  slimed. by a Slith&quot;. Note the full stop after &quot;was slimed.&quot; all 
+  those have been fixed.</FONT></P>
+<P><FONT face="Verdana, Arial">- Improved bot intelligence, they should now be 
+  able to complete the map.</FONT></P>
+<P><FONT face="Verdana, Arial">- Added support for Unreal 1 weapons, giving you 
+  a potential total of 21 weapons.</FONT></P>
+<P><FONT face="Verdana, Arial">- May have fixed bug where the monsters weren't 
+  showing up on some people's systems. (experimental)</FONT></P>
+<P><FONT face="Verdana, Arial">- Added a small Monster Hunt logo under the health 
+  and armour readings on the HUD.</FONT></P>
+<P><FONT face="Verdana, Arial">- Changed the difficulty descriptions in the bot 
+  config window to suit Monster Hunt.</FONT></P>
+<P><FONT face="Verdana, Arial">- Added support for up to 32 players, I don't reccomend 
+  you use that many though, but the option is there if you want it.</FONT></P>
+<P><FONT face="Verdana, Arial">- Added Monster Hunt server browser for finding 
+  online games.</FONT></P>
+<P><FONT face="Verdana, Arial">- Removed ammo from maps when using the Chainsaw 
+  Arena mutator.</FONT></P>
+<P></P>
+<P><FONT face="Verdana, Arial">- Fixed lots of bugs in MH-Forbidden.</FONT></P>
+<P></P>
+<P><FONT face="Verdana, Arial">- Created this HTML help file, looks a lot nicer 
+  than NotePad don't you think?</FONT></P>
+<P><FONT face="Verdana, Arial"> - Thought up little slogan, "Don't think, shoot!!" 
+  (you may recoginse this from the best PlayStation game ever made, Metal Gear 
+  Solid!).</FONT></P>
+<P>&nbsp;</P>
+<P><FONT face="Verdana, Arial"><B><I>Release 2 (Internal)<BR>
+  -------------------- </I></B></FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed lots of tiny bugs </FONT></P>
+<P><FONT face="Verdana, Arial">- Added subtle little things you probably won't 
+  notice </FONT></P>
+<P><FONT face="Verdana, Arial">- Removed 'Deaths' listing from the scoreboard 
+  </FONT></P>
+<P><FONT face="Verdana, Arial">- Fixed some spelling errors :-) </FONT></P>
+<P><FONT face="Verdana, Arial">- Greatly expanded the ReadMe file</FONT></P>
+<P>&nbsp;</P>
+<P><FONT face="Verdana, Arial"> <I><B>Release 1 (Internal)<BR>
+  -------------------- </B></I></FONT></P>
+<P><FONT face="Verdana, Arial">- Initial release</FONT></P>
+</BODY>
+</HTML>
