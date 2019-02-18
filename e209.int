@@ -1,3 +1,0 @@
-[Public]
-Object=(Name=e209.e209Bot,Class=Class,MetaClass=BotPack.Bot,Description="ED-209")
-Object=(Name=e209.e209,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="ED-209")

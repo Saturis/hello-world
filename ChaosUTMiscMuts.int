@@ -1,5 +1,0 @@
-[Public]
-Object=(Name=ChaosUTMiscMuts.SwordMelee,Class=Class,MetaClass=Engine.Mutator,Description="ChaosUT - Sword Melee,Everyone's Melee weapon is a ChaosUT Bastard Sword");
-Object=(Name=ChaosUTMiscMuts.SwordArena,Class=Class,MetaClass=Engine.Mutator,Description="ChaosUT - Sword Arena,All weapons are the ChaosUT Bastard Sword");
-Object=(Name=ChaosUTMiscMuts.NoHealth,Class=Class,MetaClass=Engine.Mutator,Description="ChaosUT - NoHealth,All health items (healthvial, superhealth, medbox) are removed");
-
