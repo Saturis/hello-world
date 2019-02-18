@@ -1,3 +1,0 @@
-[Public]
-Object=(Name=obiwan.obiwanBot,Class=Class,MetaClass=BotPack.Bot,Description="Obiwan Kenobi")
-Object=(Name=obiwan.obiwan,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Obiwan Kenobi")

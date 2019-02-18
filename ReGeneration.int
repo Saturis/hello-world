@@ -1,3 +1,0 @@
-[Public]
-Object=(Name=ReGeneration.ReGeneration,Class=Class,MetaClass=Engine.Mutator,Description="ReGen,Regenerate health if it is below a specified level."
-Object=(Name=ReGeneration.MyMutatorMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)
