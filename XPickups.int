@@ -1,7 +1,0 @@
-[Public]
-
-Object=(Name=XPickups.XPickupsModMenuItem,Class=Class, MetaClass=UMenu.UMenuModMenuItem,Description="XPickups")
-Object=(Name=XPickups.XPickupsMut,Class=Class,MetaClass=Engine.Mutator,Description="XPickups Mutator")
-Object=(Name=XPickups.XSniperArena,Class=Class,MetaClass=Engine.Mutator,Description="X Sniper Arena")
-Object=(Name=XPickups.XShockArena,Class=Class,MetaClass=Engine.Mutator,Description="X Shock Arena")
-Object=(Name=XPickups.XRocketArena,Class=Class,MetaClass=Engine.Mutator,Description="X Rocket Arena")
