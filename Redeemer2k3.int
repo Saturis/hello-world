@@ -1,0 +1,8 @@
+[Public]
+Object=(Name=Redeemer2k3.Redeemer2k3,Class=Class,MetaClass=Engine.Mutator,Description="Redeemer 2k3,Upgrade the Redeemer with UT2k3 effects.")
+
+// no new entry in priority menu, but shown in Arena Match menu
+Object=(Name=Redeemer2k3.R2k3_Redeemer,Class=Class,MetaClass=EnhancedItems.EnhancedWeapon,Description=",UT2k3 Redeemer")
+
+// this mod's name (only MetaClass and Description are important)
+Object=(Name=Engine.GameInfo,Class=Class,MetaClass=Engine.Info,Description="Redeemer2k3,Redeemer 2k3")

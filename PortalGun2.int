@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=portalgun2.portalmut,Class=Class,MetaClass=Engine.Mutator,Description="Portal Gun Fix")
+Object=(Name=portalgun2.portalarena,Class=Class,MetaClass=Engine.Mutator,Description="Portal Fun Arena Fix")
