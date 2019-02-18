@@ -1,0 +1,5 @@
+[Public]
+
+Object=(Name=Hanfpack.Hanfpack,Class=Class,MetaClass=BotPack.VoiceMale,Description="DMC Hanf")
+Object=(Name=Hanfpack.Hanfpack,Class=Class,MetaClass=BotPack.VoiceBoss,Description="DMC Hanf")
+Object=(Name=Hanfpack.Hanfpack,Class=Class,MetaClass=BotPack.VoiceFemale,Description="DMC Hanf")

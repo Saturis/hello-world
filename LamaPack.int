@@ -1,0 +1,5 @@
+[Public]
+
+Object=(Name=LamaPack.LamaPack,Class=Class,MetaClass=BotPack.VoiceMale,Description="DMC Lama")
+Object=(Name=LamaPack.LamaPack,Class=Class,MetaClass=BotPack.VoiceBoss,Description="DMC Lama")
+Object=(Name=LamaPack.LamaPack,Class=Class,MetaClass=BotPack.VoiceFemale,Description="DMC Lama")

@@ -1,0 +1,8 @@
+; $Id: JBSkinDefault.int,v 1.1 2001/11/04 13:41:01 elbundee Exp $
+
+[Public]
+Object=(Name=JBSkinDefault.White,Class=Class,MetaClass=JailBreak.JBSkin,Description="Default Skin White Status")
+
+[White]
+StatusR=220,220,220
+StatusB=220,220,220

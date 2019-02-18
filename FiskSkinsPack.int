@@ -1,0 +1,22 @@
+[Public]
+Object=(Name=FiskSkinsPack.Redd1,Class=Texture,Description="Red Angel's Body")
+Object=(Name=FiskSkinsPack.Redd2Redd,Class=Texture,Description="Red Angel's Face") 
+
+Object=(Name=FiskSkinsPack.Blue1,Class=Texture,Description="Blue Angel's Body")
+Object=(Name=FiskSkinsPack.Blue2Blue,Class=Texture,Description="Blue Angel's Face") 
+
+Object=(Name=FiskSkinsPack.Diab1,Class=Texture,Description="Diabolic Angel's Body")
+Object=(Name=FiskSkinsPack.Diab2Diab,Class=Texture,Description="Diabolic Angel's Face") 
+
+Object=(Name=FiskSkinsPack.Pitf1,Class=Texture,Description="Pit Angel's Body")
+Object=(Name=FiskSkinsPack.Pitf2Pitf,Class=Texture,Description="Pit Angel's Face") 
+
+Object=(Name=FiskSkinsPack.Codk1,Class=Texture,Description="COD Angel's Body")
+Object=(Name=FiskSkinsPack.Codk2Codk,Class=Texture,Description="COD Angel's Face") 
+
+Object=(Name=FiskSkinsPack.Spyk,Class=Texture,Description="Spyyke Angel's Body")
+Object=(Name=FiskSkinsPack.Spyk2Spyk,Class=Texture,Description="Spyyke Angel's Face") 
+
+
+Object=(Name=FiskSkinsPack.defa,Class=Texture,Description="Default Angel's Body")
+Object=(Name=FiskSkinsPack.defa2defa,Class=Texture,Description="Default Angel's Face") 
