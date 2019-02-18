@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=ChaosUT.ChaosUTMutators,Class=Class,MetaClass=Engine.Mutator,Description="ChaosUT GOTYE Mutator, Use this mutator for Chaotic UT fun :)")
+Object=(Name=ChaosUT.ChaosUTModMenuItem,Class=Class, MetaClass=UMenu.UMenuModMenuItem, Description="ChaosUT Config,Configure ChaosUT")

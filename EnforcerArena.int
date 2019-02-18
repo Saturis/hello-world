@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=EnforcerArena.EnforcerArena,Class=Class,MetaClass=Engine.Mutator,Description="EnforcerArena")
