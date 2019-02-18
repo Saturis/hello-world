@@ -1,0 +1,17 @@
+[Setup]
+LocalProduct=Oldskool Amp'd
+ReadMe=Help\oldskoolampd239.htm
+SetupWindowTitle=Oldskool Amp'd Setup
+AutoplayWindowTitle=Oldskool Amp'd Options
+ProductURL=http://www.unreality.dk/usaar33
+VersionURL=http://www.unreality.dk/usaar33
+Developer=UsAaR33 & Psychic_313
+DeveloperURL=mailto:usaar33@yahoo.com
+Logo=Help\oldskins.bmp
+
+[UnrealTournamentRequirement]
+LocalProduct=UnrealTournament
+ProductURL=http://www.unrealtournament.com/
+VersionURL=http://unreal.epicgames.com/
+Developer=Epic Games, Inc.
+DeveloperURL=http://www.epicgames.com/
