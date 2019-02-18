@@ -1,0 +1,70 @@
+Log: Log file open, 02/09/19 21:50:46
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.1 (Build: 7601)
+Init: Version: 432
+Init: Compiled: Oct  4 2000 21:31:15
+Init: Command line: testrendev=D3DDrv.D3DRenderDevice log=Detected.log
+Init: Base directory: E:\Video Games\UnrealTournament\System\
+Init: Character set: Unicode
+Log: Bound to Engine.dll
+Log: Bound to Core.dll
+Log: Bound to Window.dll
+Init: Object subsystem initialized
+Init: Computer: NICOLLET
+Init: User: Daddy
+Init: Memory total: Phys=4121524K Pagef=4194303K Virt=2097024K
+Init: Working set: 32000 / 159000
+Init: CPU Speed=2094.876819 MHz
+Init: CPU Page size=4096, Processors=2
+Init: CPU Detected: PentiumPro-class processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
+Log: Detecting D3DDrv.D3DRenderDevice
+Log: Bound to D3DDrv.dll
+Init: DirectDraw drivers detected:
+Init:    display (Primary Display Driver)
+Init: D3D Device: Supports system memory DMA blts
+Log: D3D Device 1736700K vram, 1731075K free
+Init: Unreal Tournament Direct3D support - internal revision 1.9b
+Init: D3D Device: szDriver=igdumdx32.dll
+Init: D3D Device: szDescription=Mobile Intel(R) 4 Series Express Chipset Family
+Init: D3D Device: wProduct=0
+Init: D3D Device: wVersion=0
+Init: D3D Device: wSubVersion=0
+Init: D3D Device: wBuild=0
+Init: D3D Device: dwVendorId=32902
+Init: D3D Device: dwDeviceId=10818
+Init: D3D Device: dwSubSysId=43388965
+Init: D3D Device: dwRevision=9
+Init: Successfully tested Direct3D presence (DD_OK)
+Init: DirectDraw drivers detected:
+Init:    display (Primary Display Driver)
+Init: D3D Device: Supports system memory DMA blts
+Log: D3D Device 1736700K vram, 1731075K free
+Init: Unreal Tournament Direct3D support - internal revision 1.9b
+Init: D3D Device: szDriver=igdumdx32.dll
+Init: D3D Device: szDescription=Mobile Intel(R) 4 Series Express Chipset Family
+Init: D3D Device: wProduct=0
+Init: D3D Device: wVersion=0
+Init: D3D Device: wSubVersion=0
+Init: D3D Device: wBuild=0
+Init: D3D Device: dwVendorId=32902
+Init: D3D Device: dwDeviceId=10818
+Init: D3D Device: dwSubSysId=43388965
+Init: D3D Device: dwRevision=9
+Init: Successfully tested Direct3D presence (DD_OK)
+Log: Successfully detected D3DDrv.D3DRenderDevice
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Engine.dll
+Log: Unbound to Core.dll
+Log: Unbound to Window.dll
+Log: Unbound to D3DDrv.dll
+Log: Garbage: objects: 218->0; refs: 0
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  0.005M /  0.121M
+Uninitialized: Peak Memory  0.553M /  2.902M
+Uninitialized: Allocs           2 Current /   5433 Total
+Uninitialized: Log file closed, 02/09/19 21:50:53
