@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=Screen.ScreenUIMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="Screen Component,Configure the Screen Component")

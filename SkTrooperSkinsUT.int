@@ -1,0 +1,4 @@
+[public]
+Object=(Name=SkTrooperSkinsUT.Skaarj,Class=Texture,Description="Skaarj Trooper")
+Object=(Name=SkTrooperSkinsUT.Officer,Class=Texture,Description="Officer")
+Object=(Name=SkTrooperSkinsUT.Sniper,Class=Texture,Description="Sniper")
