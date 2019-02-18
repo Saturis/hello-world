@@ -1,4 +1,0 @@
-; $Id: JBSkinCheese.int,v 1.1 2001/11/10 14:25:57 mychaeel Exp $
-
-[Public]
-Object=(Name=JBSkinCheese,Class=Class,MetaClass=JailBreak.JBSkin,Description="Cheese Compass")

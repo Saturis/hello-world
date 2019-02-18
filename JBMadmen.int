@@ -1,5 +1,0 @@
-; $Id: JBMadmen.int,v 1.2 2001/11/10 23:19:45 mychaeel Exp $
-
-[Public]
-Object=(Name=JBMadmen.JBMadmen,Class=Class,MetaClass=Engine.Mutator,Description="JBMadmen,JBMadmen by Mychaeel")
-Object=(Name=JBMadmen.JBMadmenMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="JBMadmen,Configure JBMadmen for Jailbreak")

@@ -1,5 +1,0 @@
-[Public]
-Object=(Name=Fisk.Fisk,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Silver Angel")
-Object=(Name=Fisk.Fiskbot,Class=Class,MetaClass=BotPack.Bot,Description="Silver Angel")
-Object=(Name=FiskSkins.Fisk1,Class=Texture,Description="Silver Angel's Body")
-Object=(Name=FiskSkins.Fisk2Fisk,Class=Texture,Description="Silver Angel's Face")

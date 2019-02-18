@@ -1,8 +1,0 @@
-[public]
-
-Object=(Name=GenestSkins.genestealer,Class=Texture,Description="Genestealer")
-Object=(Name=GenestSkins.prototype,Class=Texture,Description="Prototype")
-Object=(Name=GenestSkins.T_Gene_0,Class=Texture)
-Object=(Name=GenestSkins.T_Gene_1,Class=Texture)
-Object=(Name=GenestSkins.T_Gene_2,Class=Texture)
-Object=(Name=GenestSkins.T_Gene_3,Class=Texture)
