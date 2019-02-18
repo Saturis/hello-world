@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=Sevens.TheMutator,Class=Class,MetaClass=Engine.Mutator,Description="Atomizer 1.2")
+Object=(Name=Sevens.AtomizerMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)

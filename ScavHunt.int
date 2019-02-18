@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=ScavHunt.SHGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)
+Object=(Name=ScavHunt.SHDefaultMapList,Class=Class,MetaClass=ScavHunt.SHMapList,Description="Default SH Maps")
+Preferences=(Caption="SH",Parent="Game Types",Class=ScavHunt.SHGame,Immediate=True)

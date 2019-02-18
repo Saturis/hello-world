@@ -1,0 +1,14 @@
+[public]
+
+Object=(Name=SGirlSkins_LC.Lara1,Class=Texture,Description="LaraCroft")
+Object=(Name=SGirlSkins_LC.Lara2,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara3,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara4,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara4Lara,Class=Texture,Description="Lara")
+Object=(Name=SGirlSkins_LC.Lara5Lara,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara1T_0,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara1T_1,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara1T_2,Class=Texture)
+Object=(Name=SGirlSkins_LC.Lara1T_3,Class=Texture)
+
+
