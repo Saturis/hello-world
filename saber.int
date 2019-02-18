@@ -1,3 +1,0 @@
-[public]
-Object=(Name=saber.lsaber,Class=Class,MetaClass=Engine.weapon)
-Object=(Name=saber.sabermod,Class=Class,MetaClass=Engine.Mutator,Description="LightSaber,light saber replaces Impact Hammer")

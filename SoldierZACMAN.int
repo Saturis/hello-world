@@ -1,6 +1,0 @@
-[Public]
-Object=(Name=SoldierZACMAN.zacm1,Class=Texture,Description="Zacman")
-Object=(Name=SoldierZACMAN.zacm2,Class=Texture)
-Object=(Name=SoldierZACMAN.zacm3,Class=Texture)
-Object=(Name=SoldierZACMAN.zacm4,Class=Texture)
-Object=(Name=SoldierZACMAN.zacm5,Class=Texture)
