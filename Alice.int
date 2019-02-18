@@ -1,0 +1,5 @@
+[Public]
+Object=(Name=Alice.AliceBot,Class=Class,MetaClass=BotPack.Bot,Description="Alice")
+Object=(Name=Alice.Alice,Class=Class,MetaClass=BotPack.TournamentPlayer,Description="Alice")
+
+

@@ -1,0 +1,15 @@
+[Public]
+Object=(Name=AliceSkins.alys1,Class=Texture,Description="Alice")
+Object=(Name=AliceSkins.alys1Alice,Class=Texture)
+Object=(Name=AliceSkins.alys2,Class=Texture)
+Object=(Name=AliceSkins.alys2t_0,Class=Texture)
+Object=(Name=AliceSkins.alys2t_1,Class=Texture)
+Object=(Name=AliceSkins.alys2t_2,Class=Texture)
+Object=(Name=AliceSkins.alys2t_3,Class=Texture)
+Object=(Name=AliceSkins.alys3,Class=Texture)
+Object=(Name=AliceSkins.alys3t_0,Class=Texture)
+Object=(Name=AliceSkins.alys3t_1,Class=Texture)
+Object=(Name=AliceSkins.alys3t_2,Class=Texture)
+Object=(Name=AliceSkins.alys3t_3,Class=Texture)
+Object=(Name=AliceSkins.alys5Alice,Class=Texture,Description="Alice")
+
